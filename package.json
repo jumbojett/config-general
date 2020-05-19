@@ -9,9 +9,7 @@
     "Config::General"
   ],
   "dependencies": {
-    "glob": ">= 4.0.3",
-    "iconv": ">=2.3.0",
-    "node-icu-charset-detector": ">=0.2.0"
+    "glob": ">= 4.0.3"
   },
   "devDependencies": {
     "tap": "^0.4.11"
